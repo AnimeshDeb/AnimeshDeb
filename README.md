@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnimeshDeb?tab=repositories](https://github.com/AnimeshDeb?tab=repositories)
 
-- 💬 Ask me about **React.js, JavaScript, HTML5, CSS, Firebase, MongoDB Atlas**
+- 💬 Ask me about **React.js, JavaScript, HTML5, CSS, Node.js, Express.js, C, C++, Firebase, MongoDB Atlas**
 
 - 📫 How to reach me **animeshdeb89@gmail.com**
 
