@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
 <h3 align="center">A passionate Software Engineering student working towards Full Stack Web Development.</h3>
 
-- 🔭 I’m currently working on with a team to create a job search and application website for people with mental challenges [Career-Compass](https://github.com/AnimeshDeb/Career-Compass)
+- 🔭 I’m currently working on a personal project to integrate custom commands into the Messenger platform, aiming to enhance interactivity in group chats.
 
 - 👯 I’m looking to collaborate on **open source Web Developer Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnimeshDeb?tab=repositories](https://github.com/AnimeshDeb?tab=repositories)
+- 👨‍💻 Feel free to check out some of my other projects at [https://github.com/AnimeshDeb?tab=repositories](https://github.com/AnimeshDeb?tab=repositories)
 
 - 💬 Ask me about **React.js, JavaScript, HTML5, CSS, Node.js, Express.js, C, C++, Firebase, MongoDB Atlas**
 
