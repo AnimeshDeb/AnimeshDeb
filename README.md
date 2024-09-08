@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
 <h3 align="center">A passionate Software Engineering student working towards Full Stack Web Development.</h3>
 
-- 🔭 I’m currently working on a personal project to integrate custom commands into the Messenger platform, aiming to enhance interactivity in group chats.
+- 🔭 I'm currently working to upgrade/ improve my portfolio website.
 
 - 👯 I’m looking to collaborate on **open source Web Developer Projects**
 
