@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
 <h3 align="center">A passionate Software Engineering student working towards Full Stack Web Development.</h3>
 
-- 🔭 I'm currently developing an educational mobile app designed to help users strengthen their understanding of high school and college-level mathematics. Here is the repo: https://github.com/Chromium99/AlgeBlitz .
+- 🔭 I'm currently working on a full stack website that allows users to automate social media posts to Bluesky. Here is the link: https://github.com/AnimeshDeb/BlueSky_Bot 
 
 - 👯 I’m looking to collaborate on **open source Web Developer Projects**
 
