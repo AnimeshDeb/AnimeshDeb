@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on a full stack website that allows users to automate social media posts to Bluesky. Here is the link: https://github.com/AnimeshDeb/BlueSky_Bot 
 
-- 👯 I’m looking to collaborate on **open source Web Developer Projects**
+- 👯 I’m looking to collaborate on **open source software engineering projects** and also join **full-time opportunities**
 
 - 👨‍💻 Feel free to check out some of my other projects at [https://github.com/AnimeshDeb?tab=repositories](https://github.com/AnimeshDeb?tab=repositories)
 
