@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
-<h3 align="center">A passionate Software Engineering student working towards Full Stack Web Development.</h3>
+<h3 align="center">A motivated Software Engineer with experience in Full Stack Web Development, continuously building projects to sharpen my skills and grow as a developer.</h3>
 
 - 🔭 I'm currently working on a full stack website that allows users to automate social media posts to Bluesky. Here is the link: https://github.com/AnimeshDeb/BlueSky_Bot 
 
