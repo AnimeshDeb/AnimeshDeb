@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
 <h3 align="center">A motivated Software Engineer with experience in Full Stack Web Development, continuously building projects to sharpen my skills and grow as a developer.</h3>
 
-- 🔭 I'm currently working on a full stack website that allows users to create AI motivational shorts for youtube. Currently a closed work in progress, will post link here when finished. 
+- 🔭 I'm currently working on a full stack website (moodVid) that allows users to create AI motivational shorts for youtube. Feel free to check out the progress: https://github.com/AnimeshDeb/moodVid
 
 - 👯 I’m looking to collaborate on **open source software engineering projects** and also join **full-time opportunities**
 
