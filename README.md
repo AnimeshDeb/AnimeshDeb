@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
 <h3 align="center">A motivated Software Engineer with experience in Full Stack Web Development, continuously building projects to sharpen my skills and grow as a developer.</h3>
 
-- 🔭 I'm currently working on a full stack website (moodAudio) that allows users to create AI motivational audio for podcasts. Feel free to check out the progress: https://github.com/AnimeshDeb/moodAudio
+- 🔭 I'm currently working on a full stack website (sql learner) that allows users to practice their sql in a gamified manner, all the whole providing a guide to problems. Feel free to check out the progress: (https://github.com/AnimeshDeb/SQLearner)
 
 - 👯 I’m looking to collaborate on **open source software engineering projects** and also join **full-time opportunities**
 
