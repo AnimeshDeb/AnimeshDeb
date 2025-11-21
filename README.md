@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
 <h3 align="center">A motivated Software Engineer with experience in Full Stack Web Development, continuously building projects to sharpen my skills and grow as a developer.</h3>
 
-- 🔭 I'm currently working on a full stack website (sql learner) that allows users to practice their sql in a gamified manner, all the while providing a guide to problems. Feel free to check out the progress: (https://github.com/AnimeshDeb/SQLearner)
+- 🔭 Learning is hard, but it doesn't have to be boring! I'm building a platform that allows you to learn and master sql all the while gaining xp, topping a leaderboard, and unlocking fun achievements. It will have a diverse set of problems and of course a roadmap to completing them, so you don't get lost along the way. Do check out the project status and let me know your thoughts: (https://github.com/AnimeshDeb/SQLearner). Happy coding!!
 
 - 👯 I’m looking to collaborate on **open source software engineering projects** and also join **full-time opportunities**
 
