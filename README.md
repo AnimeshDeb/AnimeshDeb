@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Deb</h1>
-<h3 align="center">A motivated Software Engineer with experience in Full Stack Web Development, continuously building projects to sharpen my skills and grow as a developer.</h3>
+<h3 align="center">A motivated Software Engineer and a data analyst, continuously building projects to sharpen my skills and grow as a developer / analyst.</h3>
 
 - 🔭 Digital experiences, like apps and websites, are made better by continuously iterating on design and user interactions. I'm building an A/B platform that leverages the concept of a multi-armed bandit, allowing you to test multiple different variations of a product, all the while having traffic routed in real time to the variation that is being most effective. Check out the link at (https://github.com/AnimeshDeb/converge). Happy coding!! 
 - 👯 I’m looking to collaborate on **open source software engineering projects** and also join **full-time opportunities**
